@@ -18,7 +18,7 @@ This project implements an end-to-end data pipeline on Google Cloud Platform (GC
 
 ---  Raw and curated layers built in BigQuery with SCD Type 1 & Type 2 handling
 
----  Dataproc (Spark) and Cloud Functions for scalable ingestion and transformation
+---  Dataproc (Spark)  for scalable ingestion and transformation
 
 ---  Cloud Composer (Airflow) for orchestration and automation
 
